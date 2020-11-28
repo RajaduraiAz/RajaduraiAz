@@ -21,9 +21,12 @@ I'm currently educating myself in the field of Software Engineering with a speci
 
 
 <h4 align = "center">
-  Languages: 
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</h4>
+
+<h4 align = "center">
+  <img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"> 
 </h4>
