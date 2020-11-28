@@ -28,5 +28,7 @@ I'm currently educating myself in the field of Software Engineering with a speci
 </h4>
 
 <h4 align = "center">
-  <img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
+  
 </h4>
