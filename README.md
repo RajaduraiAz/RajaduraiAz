@@ -15,8 +15,8 @@
  Hi there 👋 I'm Rajadurai Azhagudurai!  💻
 </h3>
   
- <p align="center">
-I'm currently educating myself in the field of Software Engineering with a specialization in Cloud Development.
+<p align="center">
+I'm specialized in the field of Software Engineering (.NET & Angular) with Cloud deployment (Azure) and cross platform Mobile Development(Flutter).
 </p>
 
 
