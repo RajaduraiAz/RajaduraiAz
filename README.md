@@ -1,5 +1,5 @@
 <h3 align = "center">
- <img src="https://www.rexer.in/Posts/files/favicon_637422109381806629.png">
+ <img src="https://www.rexer.in/assets/logo.png">
 </h3>
  
 <h3 align = "center">
