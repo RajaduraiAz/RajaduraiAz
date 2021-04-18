@@ -1,5 +1,5 @@
 <h3 align = "center">
- <img src="logo.png">
+ <img src="logo.png" width="100">
 </h3>
  
 <h3 align = "center">
