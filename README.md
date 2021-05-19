@@ -7,7 +7,7 @@
 </h3>
   
 <p align="center">
-I'm specialized in the field of Software Engineering (.NET & Angular) with Cloud deployment (Azure) and cross platform Mobile Development(Flutter).
+I'm specialized in the field of Software Engineering (.NET & Angular) with Cloud (Azure).
 </p>
 
 <h4 align = "center">
@@ -18,7 +18,6 @@ I'm specialized in the field of Software Engineering (.NET & Angular) with Cloud
 </h4>
 
 <h4 align = "center">
-  <img src="https://img.shields.io/badge/flutter%20-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/microsoft%20azure%20-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white">  
 </h4>
