@@ -17,7 +17,8 @@ I'm specialized in the field of Software Engineering (.NET, React & Angular) wit
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </h4>
 
-<h4 align = "center">
+<h4 align = "center"> 
+  <img src="https://img.shields.io/badge/ReactJs-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/microsoft%20azure%20-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white">  
 </h4>
