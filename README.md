@@ -7,7 +7,7 @@
 </h3>
   
 <p align="center">
-I'm specialized in the field of Software Engineering (.NET & Angular) with Cloud (Azure).
+I'm specialized in the field of Software Engineering (.NET, React & Angular) with Cloud (Azure).
 </p>
 
 <h4 align = "center">
